@@ -6,5 +6,6 @@ public class hello {
         System.out.println("third commit ");
         System.out.println("正常合并");
         System.out.println("hotfix 异常");
+        System.out.println("这是配置好github后hotfix分支");
     }
 }
