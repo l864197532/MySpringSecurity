@@ -7,5 +7,6 @@ public class hello {
         System.out.println("正常合并");
         System.out.println("master test");
         System.out.println("hotfix 异常");
+        System.out.println("配置好远程github仓库");
     }
 }
