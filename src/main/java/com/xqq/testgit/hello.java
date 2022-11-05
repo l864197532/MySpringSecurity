@@ -8,5 +8,6 @@ public class hello {
         System.out.println("master test");
         System.out.println("hotfix 异常");
         System.out.println("配置好远程github仓库");
+        System.out.println("这是master中github端修改的");
     }
 }
