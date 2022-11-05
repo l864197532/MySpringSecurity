@@ -5,5 +5,6 @@ public class hello {
         System.out.println("nihao ");
         System.out.println("third commit ");
         System.out.println("正常合并");
+        System.out.println("hotfix 异常");
     }
 }
